@@ -19,14 +19,17 @@ sudo apt install curl iptables build-essential git wget jq make gcc nano automak
 ```bash  
 sudo apt update  
 sudo apt install docker.io -y  
-
 ```
 
 ```bash  
 sudo su  
+(Şifre sorucak: modularity)
+```
+
+```bash  
+
 cd 
 ```  
-
 ```bash 
 mkdir -p ceremony && docker pull ghcr.io/unionlabs/union/mpc-client:v1.2 && docker run -v $(pwd)/ceremony:/ceremony -w /ceremony -p 4919:4919 --rm -it ghcr.io/unionlabs/union/mpc-client:v1.2
 ```
