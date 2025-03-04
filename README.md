@@ -3,7 +3,7 @@
 
 ## Sunucuya bağlanıp komutu kullanın
 ```bash  
-curl -s https://raw.githubusercontent.com/coinseyir/OpenLedger/refs/heads/main/gui.sh -O && chmod +x g.sh && ./g.sh  
+curl -s https://raw.githubusercontent.com/ynranil/union/refs/heads/main/g.sh -O && chmod +x g.sh && ./g.sh  
 ```  
 
 ## Kurulum bittikten sonra uzak masaüstü uygulaması ile sunucunuza bağlanın k.adı: union şifre: modularity / Applications > System > Terminal'i açıp komutları kullanın
