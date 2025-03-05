@@ -1,5 +1,5 @@
 # Union Ceremony Kurulum. 
-### Contabo 5$ sunucu yeterli 
+### Contabo 5$ sunucu yeterli ubuntu 22.04
 
 ## Sunucuya bağlanıp komutu kullanın
 ```bash  
